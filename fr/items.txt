@@ -78,7 +78,7 @@ grass_stone:Pierre Plante
 grass_stoneDescription:Une pierre qui fait évoluer certaines espèces de Pokémon. On dit que la couleur de la pierre détermine le Pokémon qui évoluera.
 electric_stone:Pierre Électrique
 electric_stoneDescription:Une pierre qui fait évoluer certaines espèces de Pokémon. On dit que la couleur de la pierre détermine le Pokémon qui évoluera.
-psychic_stone:Pierre psy
+psychic_stone:Pierre Psy
 psychic_stoneDescription:Une pierre qui fait évoluer certaines espèces de Pokémon. On dit que la couleur de la pierre détermine le Pokémon qui évoluera.
 ice_stone:Pierre Glace
 ice_stoneDescription:Une pierre qui fait évoluer certaines espèces de Pokémon. On dit que la couleur de la pierre détermine le Pokémon qui évoluera.
@@ -97,7 +97,7 @@ snowballDescription:Une boule de neige. Elle fondra si tu ne l'utilises pas jusq
 dive_ball:Scuba Ball
 dive_ballDescription:Une Ball plus efficace pour attraper les Pokémon 🐟 Poisson 🐟.
 cipher_ball:Psycho Ball
-cipher_ballDescription:Une Poké Ball un peu différente qui est plus efficace pour attraper les Pokémon de type Poison ou Psychique.
+cipher_ballDescription:Une Poké Ball un peu différente qui est plus efficace pour attraper les Pokémon de type Poison ou Psy.
 golden_ticket:Ticket Doré
 golden_ticketDescription:À quoi cela pourrait-il servir ? Tapez !poketicket pour le découvrir !
 magnet_ball:Magnet Ball
@@ -116,7 +116,7 @@ luxury_ball:Luxe Ball
 luxury_ballDescription:Une balle rare avec une apparence chic. Augmente massivement le prix de vente d'un Pokémon capturé avec celle-ci.
 clone_ball:Clone Ball
 clone_ballDescription:Une balle expérimentale qui génère un second Pokémon à partir de celui que vous capturez à l'origine avec cette boule.
-ultra_cherish_ball:Hyper memoire Ball
+ultra_cherish_ball:Hyper Memoire Ball
 ultra_cherish_ballDescription:Une Boule Souvenir modifiée avec un meilleur taux de capture. A plus de chance de capturer un Pokémon brillant.
 premier_ball:Honor Ball
 premier_ballDescription:Une Poké Ball un peu rare qui a été créée en tant qu'objet commémoratif utilisé pour célébrer un événement quelconque. Elle sera lancée automatiquement si vous n'avez pas de Poké Ball.
@@ -146,14 +146,14 @@ alpha_ball:Balle Alpha
 alpha_ballDescription:nix
 mysterious_crystal:Cristal Mystérieux
 mysterious_crystalDescription:Un cristal scintillant. Origine et usage inconnus. 👀 Possesseurs de chromatiques 👀
-great_cherish_ball:Super memoire Ball
+great_cherish_ball:Super Memoire Ball
 great_cherish_ballDescription:Une Honor Ball modifiée avec un meilleur taux de capture. A une chance plus élevée de capturer un Pokémon chromatique.
 stone_ball:Gemme Ball
-stone_ballDescription:Une balle rare avec une chance accrue de lâcher une pierre d'évolution.
+stone_ballDescription:Une balle rare avec une chance accrue d'obtenir une pierre d'évolution.
 event_bundle:Pack Événement
-event_bundleDescription:Un bundle exclusif à un événement contenant 1x Légendaire d'Ancien Événement Aléatoire, 2x Ticket Doré et 2x Présent Rare
+event_bundleDescription:Un pack exclusif à un événement contenant 1x Légendaire d'Ancien Événement Aléatoire, 2x Ticket Doré et 2x Présent Rare
 battle_bundle:Pack Bataille
-battle_bundleDescription:Une offre de bundle spécial contenant : 2x Réinitialisation Totale, 2x Bonbons d'Humeur, 2x Réinitialisations IV, 3x Disques Vides
+battle_bundleDescription:Une offre de pack spéciale contenant : 2x Change-Total, 2x Aromate Nature, 2x Change-IV, 3x Disques Vides
 team_gold_badge:Arcenci'Aile
 team_gold_badgeDescription:Jeton de membre de l'Équipe Or lors de l'Événement Or vs Argent 2024
 team_silver_badge:Aile Argent
@@ -228,8 +228,8 @@ careful-mint:Menthe Prudent
 careful-mintDescription:Une menthe qui change la nature d'un Pokémon en Prudent (augmente Défense Spéciale, diminue Attaque Spéciale).
 quirky-mint:Menthe Bizarre
 quirky-mintDescription:Une menthe qui change la nature d'un Pokémon en Bizarre.
-bottle_cap_remover:Dissolvant de Capsule
-bottle_cap_removerDescription:Relance une statistique parfaite et supprime l'effet de la Capsule d'Or d'un Pokémon, te permettant d'utiliser à nouveau des Capsules d'Or sur lui.
+bottle_cap_remover Décapsuleur
+bottle_cap_removerDescription:Change une statistique parfaite et supprime l'effet de la Capsule d'Argent d'un Pokémon, te permettant d'utiliser à nouveau une Capsule d'Argent sur lui.
 lag_syrup:Sirop Lent
 lag_syrupDescription:Un sirop qui définit l'IV de Vitesse d'un Pokémon à 0, le rendant plus lent en bataille.
 weak_serum:Sérum Faible
@@ -252,7 +252,7 @@ common_present:Présent
 common_presentDescription:Entrez dans un chat et tapez !pokegift pour rendre les autres joueurs heureux ! 🎅
 ball_bundle:Ball Bundle
 ball_bundleDescription:Une offre spéciale comprenant : 1x Cherish Ball, 1x Great Cherish Ball, 1x Ultra Cherish Ball, 1x Heavy Ball, 1x Feather Ball, 1x Repeat Ball, 1x Net Ball, 1x Timer Ball, 1x Quick Ball, 1x Cipher Ball, 1x Friend Ball, 1x Clone Ball, 1x Phantom Ball, 1x Night Ball, 1x Frozen Ball, 1x Beast Ball, 1x Stone Ball, 1x Magnet Ball, 1x Nest Ball, 1x Fast Ball, 1x Level Ball, 1x Heal Ball, 1x Luxury Ball, 1x Sun Ball, 1x Fantasy Ball, 1x Geo Ball, 1x Mach Ball, 1x Basic Ball
-force_disc:Disque de Force
+force_disc:Disque Force
 force_discDescription:Un disque utilisé pour enseigner à ton Pokémon un nouvel ensemble de capacités avec une plus grande chance pour les attaques physiques.
 mystic_disc:Disque Mystique
 mystic_discDescription:Un disque utilisé pour enseigner à ton Pokémon un nouvel ensemble de capacités avec une plus grande chance pour les attaques spéciales.
@@ -295,4 +295,4 @@ ice-discDescription:Un disque utilisé pour enseigner à ton Pokémon de type Gl
 zygarde_cell:Cellule de Zygarde
 zygarde_cellDescription:Un petit fragment vert, semi-translucide et gélatineux qui forme le corps de Zygarde. Seules, les Cellules n'ont ni volonté ni force, mais lorsqu'elles sont dirigées par un Noyau de Zygarde, elles s'assemblent en diverses formes de Zygarde.
 sport_ball:Sport Ball
-sport_ballDescription:🪲 A 2x de chance de capturer un Pokémon événement du Concours de Capture d'Insectes brillant. Vous pouvez les reconnaître grâce à un message d'apparition distinct ! 🪲
+sport_ballDescription:🪲 Une ball possédant une chance doublée de capturer un pokémon chromatique si utilisée sur un pokémon insecte d'événement. Vous pouvez les reconnaître grâce à un message d'apparition distinct ! 🪲
